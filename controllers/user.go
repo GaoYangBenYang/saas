@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"saas/models"
 	"encoding/json"
+	"saas/models"
 
 	"github.com/astaxie/beego"
 )
